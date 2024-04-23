@@ -1,3 +1,4 @@
 はじめてのGitの練習2
 git add
 git commit
+git status
